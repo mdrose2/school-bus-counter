@@ -1,6 +1,6 @@
 body {
     background-image: url("schoolbus.png");
-    background-size: cover;
+    background-size: contain;
     font-family:  Roboto, -apple-system, Roboto, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
